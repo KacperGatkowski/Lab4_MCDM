@@ -31,5 +31,5 @@ Najlepsza alternatywa według:
 ## Wnioski
 Uzyskane rankingi są zgodne – obie metody wskazały tę samą alternatywę
 jako najlepszą. Oznacza to, że rozwiązanie jest stabilne i odporne
-na wybór metody decyzyjnej. Alternatywa A3 charakteryzuje się dobrym
+na wybór metody decyzyjnej. Alternatywa A4 charakteryzuje się dobrym
 balansem pomiędzy kosztem, zyskiem i ryzykiem.
